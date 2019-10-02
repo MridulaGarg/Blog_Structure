@@ -3,7 +3,7 @@
 This repo contains the basic blog structure for the website
 
 
-**Changes to be made in your project file to make django_blog_it working
+**Changes to be made in your project file to make django_blog_it working**
 
 Clone the repo and execute the requirements.txt to resolve system dependencies
 
